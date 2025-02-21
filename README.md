@@ -30,12 +30,12 @@
 # hackathon portfolio
 
 ## Platform
-| platform   | project                         | source                                    | website |
-| ---------- | ------------------------------- | ----------------------------------------- | ------- |
-| `Gitcoin`  | Hachathon-Stolen-NFTs           |                                           |         |
-| `Gitcoin`  | Hackathon-realtime-Notification |                                           |         |
-| `Gitcoin`  | Hackathon-storage-wizard        |                                           |         |
-| `Gitcoin`  | Hyperlane Defi                  |                                           |         |
-| `Gitcoin`  | Algo-Bridge-Aggregator          |                                           |         |
-| `Gitcoin`  | OpenData-Community-Legos        |                                           |         |
-| `devfolio` | BuyMeACoffee                    | https://devfolio.co/projects/easypay-2094 |         |
+| platform   | project                         | source                                                      | website                                             |
+| ---------- | ------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- |
+| `Gitcoin`  | Hachathon-Stolen-NFTs           |                                                             |                                                     |
+| `Gitcoin`  | Hackathon-realtime-Notification | https://github.com/coffiasd/realtime-notifications-frontend | https://realtime-notifications-frontend.vercel.app/ |
+| `Gitcoin`  | Hackathon-storage-wizard        | https://github.com/coffiasd/hackathon-web3-storage          | https://hackathon-web3-storage.vercel.app/          |
+| `Gitcoin`  | Hyperlane Defi                  | https://github.com/coffiasd/hyperlane-defi                  | https://hyperlane-defi.vercel.app/                  |
+| `Gitcoin`  | Algo-Bridge-Aggregator          | https://github.com/coffiasd/algo-bridge-aggregator          | https://algo-bridge-aggregator.vercel.app/          |
+| `Gitcoin`  | OpenData-Community-Legos        | https://github.com/coffiasd/airdrop-hunters-killer          |                                                     |
+| `devfolio` | BuyMeACoffee                    | https://devfolio.co/projects/easypay-2094                   | https://buy-me-a-coffee-pied.vercel.app/            |
